@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi 👋, I'm Kalyan
 
-<!--
-**Kalyan-code-droid/Kalyan-code-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Developer | Learning Java & Web Development  
+🚀 Passionate about coding and building projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- C Programming
+- C++
+- Java (Basics)
+- HTML
+- CSS
+- Java Script
+---
+
+## 📌 Current Goals
+- Learn JavaScript
+- Build projects
+- Improve problem solving
+
+---
+
+## 📂 Projects
+- 🔹 First C Program (this repo)
+
+---
+
+## 📊 GitHub Stats
+![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-code-droid&show_icons=true)
+
+---
+
+## 🌐 Connect with me
+- LinkedIn (add later)
+
