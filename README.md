@@ -32,5 +32,5 @@
 ---
 
 ## 🌐 Connect with me
-- LinkedIn (add later)
+- https://www.linkedin.com/in/kalyan-mondal-319047312/
 
