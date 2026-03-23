@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Projects
-- 🔹 First C Program (this repo)
+- 🔹 Tic- Tac-Toe Game.
 
 ---
 
